@@ -40,21 +40,6 @@ Los componentes del sistema no se comunican directamente entre sí, sino que pub
 
 ---
 
-## Ejecución
-
-### Compilar:
-
-```bash
-javac -d out src/main/java/org/example/**/*.java
-```
-
-### Ejecutar:
-
-```bash
-java -cp out org.example.Main
-```
-
----
 
 ## Desuscripción de eventos
 
